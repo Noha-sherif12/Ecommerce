@@ -1,0 +1,105 @@
+{
+    "header": {
+        "title": "Our eCom",
+        "cart": "Cart",
+        "wishlist": "wishlist"
+    },
+    "navbar": {
+        "home": "Home",
+        "categories": "Categories",
+        "about": "About",
+        "login": "Login",
+        "register": "Register",
+        "profile": "Profile",
+        "order": "Orders",
+        "logout": "Logout",
+        "welcome": "welcome"
+        },
+    
+    "home": {
+        "shop": "Shop with Us"
+    },
+    "categories": {
+        "title": "Categories"
+    },
+    "products": {
+        "addToCart": "Add to Cart",
+        "noOfItems": "You can add {{number}} item(s)",
+        "products":  "Products",
+        "currency": "EGP"
+    },
+    "footer": {
+        "footerEnd": "© 2025 Our eCom. All rights reserved."
+    },
+    "messages": {
+        "addedSuccess": "Added successfully"
+    },
+    "account": {
+        "title": "Account Info",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email"
+    },
+    "orders": {
+        "title": "Orders",
+        "myOrder": "My Orders",
+        "orderNumber": "Order Number",
+        "items": "Items",
+        "total": "Total Price",
+        "item": "item(s)",
+        "productDetails": "Product Details",
+        "modalHeading": "Modal Heading"
+    },
+    "register": {
+        "title": "User Registration",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "submit": "Submit"
+    },
+    "login": {
+        "title": "User Login",
+        "email": "Email address",
+        "password": "Password",
+        "submit": "Submit",
+        "loginMessage": "You need to login to view this content"
+    },
+    "cart": {
+        "currency": "EGP " ,
+        "quantity": "Quantity",
+        "delete": "Remove"
+    },
+    "cartSubtotal": {
+        "subtotal": "Subtotal",
+        "currency": "EGP ",
+        "placeOrder": "Place Order" 
+    },
+    
+    "about": {
+        "title": "About Us",
+        "description": "Welcome to our fashion world! Our eCommerce platform is your go-to destination for the latest trends, timeless classics, and exclusive collections. We celebrate individuality, offering curated styles for every occasion. Discover quality, comfort, and elegance in every piece. Join us in redefining fashion and expressing your unique style effortlessly. Shop now and shine!",
+        "links": "Quick Links" ,
+        "home":"Home",
+        "shop":"Shop with Us",
+        "about":"About Us",
+        "contact":"Contact Us",
+        "FAQ": "FAQ" ,
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address: 123 Main St, City, Country",
+        "popularCategories": "Popular Categories",
+        "men": "Men's Fashion",
+        "women": "Women's Fashion",
+        "kids": "Kids' Fashion",
+        "baby": "Baby's Fashion",
+        "sport": "Sport's Fashion",
+        "followUs": "Follow Us",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "instagram": "Instagram",
+        "LinkedIn": "LinkedIn"
+    }
+    
+}

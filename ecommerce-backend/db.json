@@ -1,0 +1,518 @@
+{
+  "homeItems": [
+    {
+      "id": 1,
+      "img": "https://media.istockphoto.com/id/641220222/photo/pink-womens-clothes-on-hangers-on-rack-in-fashion-store-closet.jpg?s=612x612&w=0&k=20&c=tns6Aq8rN1xgjqicqPJ0W2c-5mWAh0SXhW85QA13awA=",
+      "title": "Women blouse",
+      "price": "255"
+    },
+    {
+      "id": 2,
+      "img": "https://media.istockphoto.com/id/606637418/photo/stylish-dresses-on-stand-in-wardrobe.jpg?s=612x612&w=0&k=20&c=GGTF4ipIrZj4VkTIWAGOC-Bgwerp0W5-zDB8KX1TcKs=",
+      "title": "Women blouse",
+      "price": "255"
+    },
+    {
+      "id": 3,
+      "img": "https://media.istockphoto.com/id/916092484/photo/women-clothes-hanging-on-hangers-clothing-rails-fashion-design.jpg?s=612x612&w=0&k=20&c=fUpcbOITkQqitglZfgJkWO3py-jsbuhc8eZfb4sdrfE=",
+      "title": "Women blouse",
+      "price": "255"
+    },
+    {
+      "id": 4,
+      "img": "https://media.istockphoto.com/id/931577634/photo/soft-focus-of-a-two-years-old-child-choosing-her-own-dresses-from-kids-cloth-rack.jpg?s=612x612&w=0&k=20&c=VYPxAfk5AODBbX6DW5RTZ1v3R2PD4H2-1e9fa9OAcM0=",
+      "title": "Women blouse",
+      "price": "255"
+    },
+    {
+      "id": 5,
+      "img": "https://media.istockphoto.com/id/1941454161/photo/woman-hands-putting-warm-neutral-sweater-into-cardboard-box-seasonal-storage-method-and.jpg?s=1024x1024&w=is&k=20&c=klAIMVHwqXGT2UVaA1Nb6Yt0HEKCyBPoO4QkIonRUDc=",
+      "title": "Women blouse",
+      "price": "255"
+    },
+    {
+      "id": 6,
+      "img": "https://media.istockphoto.com/id/2198108169/photo/online-flea-market-concept-with-cardboard-boxes-and-packing-supplies-a-lifestyle-image.jpg?s=612x612&w=0&k=20&c=5cfPGFsSMdh1odkmb-wFY_CKCHa0cbz2KgZrR4LGGHA=",
+      "title": "Women blouse",
+      "price": "255"
+    }
+  ],
+  "Home": [
+    {
+      "id": 1,
+      "img": "https://media.istockphoto.com/id/1467976868/photo/the-convenience-of-shopping-online.jpg?s=1024x1024&w=is&k=20&c=TW1sWVSVTo-GtbD7tLz3IO98v_JUJWqAnbgMrjtKLfs="
+    },
+    {
+      "id": 2,
+      "img": "https://media.istockphoto.com/id/1449490038/photo/online-shopping-and-e-commerce-technology-concept-shopper-using-computer-laptop-to-input.jpg?s=1024x1024&w=is&k=20&c=VH4xCCh4Fj6JCJsbkVuTJGK9xgwKJCePHEhGnZyyKGk="
+    },
+    {
+      "id": 3,
+      "img": "https://media.istockphoto.com/id/2139438114/photo/3d-render-of-fashion-studio-dress-shop.jpg?s=1024x1024&w=is&k=20&c=-FFt7uarfAE_tAr06MEBuOEWm0GUW41Eu4uhx5xOcZ4="
+    },
+    {
+      "id": 4,
+      "img": "https://media.istockphoto.com/id/1057253610/photo/small-business-owener.jpg?s=1024x1024&w=is&k=20&c=Mi3NbQXayuIWibFUs6grbgp7OCvfGmSV--DIf0uDJak="
+    },
+    {
+      "id": 5,
+      "img": "https://media.istockphoto.com/id/2148788423/photo/online-shopping-home-and-person-with-phone-choice-and-e-commerce-digital-and-fashion-for.jpg?s=1024x1024&w=is&k=20&c=m6xxkge2tya7e-7mLTy1rBAa_RgBgKNTO65PhgVXkTg="
+    },
+    {
+      "id": 6,
+      "img": "https://media.istockphoto.com/id/1199711436/vector/set-of-abstract-sale-backgrounds.jpg?s=1024x1024&w=is&k=20&c=5U4-HIke_wiJYaZkKgs_6EJS-kgfOoHmCL3kss2G3H4="
+    }
+  ],
+  "users": [
+    {
+      "email": "nohasherif48@gmail.com",
+      "password": "$2a$10$ggl214KVeDuqemfx0TbFGe1ARR1b0tqIAz60pHuFIkXv68YSfDtRG",
+      "firstName": "Noha",
+      "lastName": "Sherif",
+      "id": 1
+    },
+    {
+      "email": "kswmfkw@gmail.com",
+      "password": "$2a$10$Wrky39qtxBCTIHVwZaH6g.SqHMmzXsFeYrk5k9eOW99dAEfLo41h2",
+      "firstName": "kfewmfw",
+      "lastName": "kwfmfkw",
+      "id": 2
+    },
+    {
+      "email": "njsnfjd@gmail.com",
+      "password": "$2a$10$NEA5Cx6it6luyhEjv8q5W.mnDI51sflicOZjZzhGXrD1zJWE2M1Ja",
+      "firstName": "kfjdkgj",
+      "lastName": "dgdsghd",
+      "id": 3
+    },
+    {
+      "email": "kareem@gmail.com",
+      "password": "$2a$10$n356jXIjzMtpfjuSAr6gLecEpKQL5CH3lTQkXjB2Ir5Ebb/j0LaxG",
+      "firstName": "Kareem",
+      "lastName": "Nour",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title_en": "men",
+      "title_ar": "رجال",
+      "prefix": "men",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/cfb357649428__hp-w12-22032022-h_m-men.jpg"
+    },
+    {
+      "id": 2,
+      "title_en": "women",
+      "title_ar": "نساء",
+      "prefix": "women",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/30d354267a09b__hp-w12-22032022-h_m-women_dresses.jpg"
+    },
+    {
+      "id": 3,
+      "title_en": "kids",
+      "title_ar": "أطفال",
+      "prefix": "kids",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/37d243d334c63__hp-w12-22032022-h_m-kids1.jpg"
+    },
+    {
+      "id": 4,
+      "title_en": "baby",
+      "title_ar": "رضيع",
+      "prefix": "baby",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/28948d47ae6e8__h_m-w39-28092022-4066c-1x1.jpg"
+    },
+    {
+      "id": 5,
+      "title_en": "sport",
+      "title_ar": "رياضة",
+      "prefix": "sport",
+      "img": "https://cdn-eu.dynamicyield.com/api/9876644/images/1dda9ae79a671__h_m-w40-06102022-7416b-1x1.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Regular Fit Jersey top",
+      "title_ar": "قميص جيرسي بقصّة عادية",
+      "price": 249,
+      "cat_prefix": "men",
+      "cat_prefix_ar": "رجال",
+      "img": "https://dfcdn.defacto.com.tr/6/D1967AX_24AU_BK27_01_02.jpg",
+      "max": 4
+    },
+    {
+      "id": 2,
+      "title": "Regular Fit Jersey top",
+      "title_ar": "قميص جيرسي بقصّة عادية",
+      "price": 229,
+      "cat_prefix": "men",
+      "cat_prefix_ar": "رجال",
+      "img": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/fa262b6d895736143ceb22d218f8770e2f5a373c_xxl-1.jpg",
+      "max": 4
+    },
+    {
+      "id": 3,
+      "title": "Cotton polo shirt",
+      "title_ar": "قميص بولو قطني",
+      "price": 200,
+      "cat_prefix": "men",
+      "cat_prefix_ar": "رجال",
+      "img": "https://dynamic.zacdn.com/ydZWpPbtCMmmYeFeE-YDLpO5JOI=/filters:quality(70):format(webp)/https://static-ph.zacdn.com/p/us-polo-assn-1204-3604643-1.jpg",
+      "max": 3
+    },
+    {
+      "id": 4,
+      "title": "Cotton t-shirt",
+      "title_ar": "قميص قطني",
+      "price": 100,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://www.lulus.com/images/product/xlarge/12082081_1730476.jpg?w=560&hdpi=1",
+      "max": 5
+    },
+    {
+      "id": 77,
+      "title": "Cotton t-shirt",
+      "title_ar": "قميص قطني",
+      "price": 200,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+      "max": 5
+    },
+    {
+      "id": 75,
+      "title": "Shoulder Overcoat",
+      "title_ar": "سترة كتف",
+      "price": 200,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/208294/1.jpg?2553",
+      "max": 5
+    },
+    {
+      "id": 76,
+      "title": "Beige Long sleeves Basic Top",
+      "title_ar": "قميص بأكمام طويلة باللون البيج",
+      "price": 400,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://bypavo.com/cdn/shop/files/869C5CFC-D3F8-4FDC-9EB0-83D1923AE868.jpg?v=1730061433&width=823",
+      "max": 5
+    },
+    {
+      "id": 5,
+      "title": "Sweatshirt shorts",
+      "title_ar": "شورت سويت شيرت",
+      "price": 300,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://www.lulus.com/images/product/xlarge/8632101_1775276.jpg?w=560&hdpi=1",
+      "max": 3
+    },
+    {
+      "id": 55,
+      "title": "Elevated Impression Black Sleeveles",
+      "title_ar": "بدلة بلا أكمام باللون الأسود",
+      "price": 500,
+      "cat_prefix": "women",
+      "cat_prefix_ar": "نساء",
+      "img": "https://www.lulus.com/images/product/xlarge/10814181_2225756.jpg?w=560&hdpi=1",
+      "max": 3
+    },
+    {
+      "id": 6,
+      "title": "Velour top",
+      "title_ar": "قميص فيلور",
+      "price": 300,
+      "cat_prefix": "kids",
+      "cat_prefix_ar": "أطفال",
+      "img": "https://suziekondi.com/cdn/shop/files/The_Kids_Track_Set_Set_Velour_NAVY_CC_ecomm_7bacdcc7-c034-4869-8c78-e313124b50e1.jpg?v=1716210337",
+      "max": 5
+    },
+    {
+      "id": 9,
+      "title": "Pile all-in-one suit with ears",
+      "title_ar": "بدلة متكاملة مع آذان",
+      "price": 500,
+      "cat_prefix": "baby",
+      "cat_prefix_ar": "رضيع",
+      "img": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d49eedcccc5308c8784ebeec47ddf05300eda41d_xxl-1.jpg",
+      "max": 3
+    },
+    {
+      "id": 17,
+      "title": "Regular Fit football shirt",
+      "title_ar": "قميص كرة قدم بمقاس عادي",
+      "price": 449,
+      "cat_prefix": "sport",
+      "cat_prefix_ar": "رياضة",
+      "img": "https://www.bringitonline.in/uploads/2/2/4/5/22456530/sport-5_orig.jpg",
+      "max": 4
+    },
+    {
+      "id": 17,
+      "title": "Animal Print Leggings",
+      "title_ar": "بنطلون طباعة حيوانية",
+      "price": 449,
+      "cat_prefix": "sport",
+      "cat_prefix_ar": "رياضة",
+      "img": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ef562b15e6f74bb5bd5df1bc5dfdc167_9366/IS2150_21_model.jpg",
+      "max": 4
+    },
+    {
+      "id": 17,
+      "title": "Garment Wash Baby Tee",
+      "title_ar": "قميص طفل غسيل الملابس",
+      "price": 449,
+      "cat_prefix": "sport",
+      "cat_prefix_ar": "رياضة",
+      "img": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/272f4e3e52174ff59d44313cd4ea2711_9366/IS4967_21_model.jpg",
+      "max": 4
+    }
+  ],
+  "wishlist": [
+    {
+      "userId": "1",
+      "productId": 2,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "productId": 76,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "productId": 9,
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 77,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 200,
+          "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+          "quantity": 3
+        },
+        {
+          "id": 75,
+          "title": "Shoulder Overcoat",
+          "title_ar": "سترة كتف",
+          "price": 200,
+          "img": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/208294/1.jpg?2553",
+          "quantity": 1
+        },
+        {
+          "id": 76,
+          "title": "Beige Long sleeves Basic Top",
+          "title_ar": "قميص بأكمام طويلة باللون البيج",
+          "price": 400,
+          "img": "https://bypavo.com/cdn/shop/files/869C5CFC-D3F8-4FDC-9EB0-83D1923AE868.jpg?v=1730061433&width=823",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1600,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 77,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 200,
+          "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 75,
+          "title": "Shoulder Overcoat",
+          "title_ar": "سترة كتف",
+          "price": 200,
+          "img": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/208294/1.jpg?2553",
+          "quantity": 1
+        },
+        {
+          "id": 55,
+          "title": "Elevated Impression Black Sleeveles",
+          "title_ar": "بدلة بلا أكمام باللون الأسود",
+          "price": 500,
+          "img": "https://www.lulus.com/images/product/xlarge/10814181_2225756.jpg?w=560&hdpi=1",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 900,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 2,
+          "title": "Regular Fit Jersey top",
+          "title_ar": "قميص جيرسي بقصّة عادية",
+          "price": 229,
+          "img": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/fa262b6d895736143ceb22d218f8770e2f5a373c_xxl-1.jpg",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 229,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 1,
+          "title": "Regular Fit Jersey top",
+          "title_ar": "قميص جيرسي بقصّة عادية",
+          "price": 249,
+          "img": "https://dfcdn.defacto.com.tr/6/D1967AX_24AU_BK27_01_02.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 77,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 200,
+          "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "title": "Velour top",
+          "title_ar": "قميص فيلور",
+          "price": 300,
+          "img": "https://suziekondi.com/cdn/shop/files/The_Kids_Track_Set_Set_Velour_NAVY_CC_ecomm_7bacdcc7-c034-4869-8c78-e313124b50e1.jpg?v=1716210337",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "title": "Pile all-in-one suit with ears",
+          "title_ar": "بدلة متكاملة مع آذان",
+          "price": 500,
+          "img": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d49eedcccc5308c8784ebeec47ddf05300eda41d_xxl-1.jpg",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 1249,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 5,
+          "title": "Sweatshirt shorts",
+          "title_ar": "شورت سويت شيرت",
+          "price": 300,
+          "img": "https://www.lulus.com/images/product/xlarge/8632101_1775276.jpg?w=560&hdpi=1",
+          "quantity": 1
+        },
+        {
+          "id": 55,
+          "title": "Elevated Impression Black Sleeveles",
+          "title_ar": "بدلة بلا أكمام باللون الأسود",
+          "price": 500,
+          "img": "https://www.lulus.com/images/product/xlarge/10814181_2225756.jpg?w=560&hdpi=1",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 800,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 4,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 100,
+          "img": "https://www.lulus.com/images/product/xlarge/12082081_1730476.jpg?w=560&hdpi=1",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "title": "Sweatshirt shorts",
+          "title_ar": "شورت سويت شيرت",
+          "price": 300,
+          "img": "https://www.lulus.com/images/product/xlarge/8632101_1775276.jpg?w=560&hdpi=1",
+          "quantity": 1
+        },
+        {
+          "id": 55,
+          "title": "Elevated Impression Black Sleeveles",
+          "title_ar": "بدلة بلا أكمام باللون الأسود",
+          "price": 500,
+          "img": "https://www.lulus.com/images/product/xlarge/10814181_2225756.jpg?w=560&hdpi=1",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 1400,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 77,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 200,
+          "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 75,
+          "title": "Shoulder Overcoat",
+          "title_ar": "سترة كتف",
+          "price": 200,
+          "img": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/208294/1.jpg?2553",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 800,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "items": [
+        {
+          "id": 4,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 100,
+          "img": "https://www.lulus.com/images/product/xlarge/12082081_1730476.jpg?w=560&hdpi=1",
+          "quantity": 1
+        },
+        {
+          "id": 77,
+          "title": "Cotton t-shirt",
+          "title_ar": "تي شيرت قطني",
+          "price": 200,
+          "img": "https://m.media-amazon.com/images/I/51KJk7yKH3L._AC_SX679_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 75,
+          "title": "Shoulder Overcoat",
+          "title_ar": "سترة كتف",
+          "price": 200,
+          "img": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/208294/1.jpg?2553",
+          "quantity": 2
+        }
+      ],
+      "subtotal": 900,
+      "id": 8
+    }
+  ]
+}

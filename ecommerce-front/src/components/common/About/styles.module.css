@@ -1,0 +1,50 @@
+.aboutContainer{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+  .aboutColumn {
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
+  }
+  
+  .aboutColumn h4 {
+    margin-bottom: 15px;
+    color: #fff;
+  }
+  
+  .aboutColumn ul {
+    list-style: none;
+    padding: 0;
+    color: #fff;
+  }
+  
+  .aboutColumn ul li {
+    margin-bottom: 10px;
+  }
+  
+  .aboutColumn ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .aboutColumn ul li a:hover {
+    text-decoration: underline;
+  }
+
+  .aboutColumn p {
+    color: #fff;
+  }
+  
+  .socialIcons a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+  }
+
+  .socialIcons p {
+    color: #fff;
+  }
