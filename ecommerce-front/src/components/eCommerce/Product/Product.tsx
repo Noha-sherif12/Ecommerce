@@ -7,7 +7,7 @@ import LikeFill from "@assets/svg/like-fill.svg?react";
 import { actLikeToggle } from "@store/wishlist/wishlistSlice";
 import { Button, Spinner, Modal } from "react-bootstrap";
 import ProductInfo from "../ProductInfo/ProductInfo";
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from "react-i18next";
 
 import styles from "./styles.module.css";
 import toast from "react-hot-toast";
@@ -29,7 +29,7 @@ const Product = memo(
     const [isBtnDisabled, setIsBtnDisabled] = useState(false);
     const [showModal, setShowModal] = useState(false);
     const [isLoading, setIsLoading] = useState(false);
-    const [t, i18n ] = useTranslation();
+    const [t, i18n] = useTranslation();
     const currentRemainingQuantity = max - (quantity ?? 0);
     const quantityReachedToMax = currentRemainingQuantity <= 0 ? true : false;
 
@@ -77,7 +77,12 @@ const Product = memo(
             You need to login first to add this item to your wishlist.
           </Modal.Body>
         </Modal>
-        <ProductInfo  title={i18n.language === 'ar' ? title_ar : title}  price={price} img={img}>
+        <ProductInfo
+          title={i18n.language === "ar" ? title_ar : title}
+          title_ar={title_ar}
+          price={price}
+          img={img}
+        >
           <div className={wishlistBtn} onClick={likeToggleHandler}>
             {isLoading ? (
               <Spinner animation="border" size="sm" variant="primary" />

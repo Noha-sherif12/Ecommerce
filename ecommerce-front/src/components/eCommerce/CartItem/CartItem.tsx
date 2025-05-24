@@ -3,7 +3,7 @@ import { TProduct } from "@types";
 import { Form, Button } from "react-bootstrap";
 import styles from "./styles.module.css";
 import ProductInfo from "../ProductInfo/ProductInfo";
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from "react-i18next";
 
 const { cartItem, cartItemSelection } = styles;
 
@@ -35,7 +35,7 @@ const CartItem = memo(
         );
       });
 
-      const [ t, i18n ]= useTranslation();
+    const [t, i18n] = useTranslation();
     const changeQuantity = (event: React.ChangeEvent<HTMLSelectElement>) => {
       const quantity = +event.target.value;
       changeQuantityHandler(id, quantity);
@@ -43,7 +43,13 @@ const CartItem = memo(
 
     return (
       <div className={cartItem}>
-        <ProductInfo title={i18n.language === 'ar' ? title_ar : title} price={price} img={img} direction="column" >
+        <ProductInfo
+          title={i18n.language === "ar" ? title_ar : title}
+          title_ar={title_ar}
+          price={price}
+          img={img}
+          direction="column"
+        >
           <Button
             variant="secondary"
             style={{ color: "white", width: "100px" }}
